@@ -1,15 +1,15 @@
 # flutter_strapi_static_site
 
-A multilingual Strapi/Flutter static site.
+A multilingual Strapi/Flutter static site/app.
 
 ## Getting Started
 
-Making a multilingual static site with [Strapi](https://strapi.io) and [Flutter](https://flutter.dev)
+Making a multilingual static site/app with [Strapi](https://strapi.io) and [Flutter](https://flutter.dev)
 is easy as you can see in this project.
 You can freely expand or alter this project to suit your needs.
 
 I am using Strapi to organize the content of the website,
-[easy_localization](https://pub.dev/packages/easy_localization) to make the site multilingual and
+[easy_localization](https://pub.dev/packages/easy_localization) to make the app multilingual and
 [Riverpod](https://riverpod.dev) for state management.
 This project is build using the Clean Architecture paradigm.
 
@@ -50,4 +50,4 @@ You need the following the followind Flutter packages
 
 - Error handling
 - Responsible Design
-- Images/Media
+- Handling of Images/Media
