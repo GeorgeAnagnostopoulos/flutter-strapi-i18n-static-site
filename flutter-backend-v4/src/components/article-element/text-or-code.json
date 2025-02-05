@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_article_element_text_or_codes",
+  "info": {
+    "displayName": "TextOrCode",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "text",
+        "code"
+      ],
+      "default": "text"
+    },
+    "title": {
+      "type": "string"
+    },
+    "caption": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}

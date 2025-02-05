@@ -1,0 +1,10 @@
+{
+  "title": "Hello",
+  "msg": "Hello World! ",
+  "selectLanguage": "Select Language",
+  "profile": {
+    "reset_password": {
+      "label": "Reset Password"
+    }
+  }
+}

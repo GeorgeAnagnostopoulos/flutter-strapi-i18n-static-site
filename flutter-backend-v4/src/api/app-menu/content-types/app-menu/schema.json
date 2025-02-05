@@ -1,0 +1,31 @@
+{
+  "kind": "singleType",
+  "collectionName": "app_menus",
+  "info": {
+    "singularName": "app-menu",
+    "pluralName": "app-menus",
+    "displayName": "AppMenu",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    },
+    "import-export-entries": {}
+  },
+  "attributes": {
+    "menuItems": {
+      "type": "component",
+      "repeatable": true,
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "component": "menu.menu-item"
+    }
+  }
+}
