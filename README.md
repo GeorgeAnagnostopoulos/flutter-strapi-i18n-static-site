@@ -1,5 +1,6 @@
 # flutter_strapi_static_site
 
+![Project logo](FlutterStrapi.png)\
 A multilingual Strapi/Flutter static site/app.
 
 ## Getting Started
@@ -39,7 +40,7 @@ to export the collection data from Strapi. Of the file that is produced I use th
 Flutter is the framework of choice when you need multiplatform development as with one codebase you can target Windows, Linux, Android and IOS.
 I use the version 3.27.2 of Flutter along with the Riverpod Generator and Easy Localization packages.
 You can use VS Code, Android Studio or the command line to set up a new Flutter project.
-You need the following the followind Flutter packages
+You need the following Flutter packages
 
 - riverpod
 - easy_localization
